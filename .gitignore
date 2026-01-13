@@ -1,7 +1,8 @@
-.DS_Store
 .env
-/node_modules/
-
-# React Router
-/.react-router/
-/build/
+!.env.example
+.DS_Store
+.react-router
+build
+node_modules
+*.tsbuildinfo
+.dev.vars
