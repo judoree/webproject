@@ -6,3 +6,4 @@ build
 node_modules
 *.tsbuildinfo
 .dev.vars
+.cursor/
